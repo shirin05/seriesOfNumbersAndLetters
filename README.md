@@ -32,7 +32,9 @@ Another exciting addition would be multiplayer functionality and a leaderboard s
 
 
 ### Video Walkthrough.
-#### Note there are 2. One shows the entire screen, and it captures alerts (Game Over & Congratulations), losing a turn, Start button to End, and winning a turn. The second recording captures the tab alone because this was the only way I could capture the sound of the buttons. Please view both recordings, Thank you!!
+#### Note there are 2. One shows the entire screen, and it captures alerts (Game Over & Congratulations), losing a turn, Start button to End, and winning a turn. The second recording captures the tab alone because this was the only way I could capture the sound of the buttons. Please view both recordings, Thank you!! 
+
+I included the loom versions and a regular file attachment just incase one does not work.
 
 https://www.loom.com/share/be0890ded9124e7890ca178dac6cf443?sid=48386291-1ffc-4fd6-a98a-d4066bdea6dc
 
