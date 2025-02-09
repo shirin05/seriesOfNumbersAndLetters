@@ -31,6 +31,24 @@ I would also refactor the code by implementing event delegation rather than assi
 Another exciting addition would be multiplayer functionality and a leaderboard system. Multiplayer modes significantly increase a game's engagement by adding a competitive edge, making players more invested. A leaderboard would further enhance this by encouraging users to improve their scores and track their rankings. A great example is Candy Crush, where my father continues to play even today because he enjoys checking and maintaining his leaderboard position. This simple yet powerful feature keeps players coming back, making it an excellent upgrade for my game.
 
 
+### Video Walkthrough.
+#### Note there are 2. One shows the entire screen, and it captures alerts (Game Over & Congratulations), losing a turn, Start button to End, and winning a turn. The second recording captures the tab alone because this was the only way I could capture the sound of the buttons. Please view both recordings, Thank you!!
+
+https://www.loom.com/share/be0890ded9124e7890ca178dac6cf443?sid=48386291-1ffc-4fd6-a98a-d4066bdea6dc
+
+https://www.loom.com/share/06116601d0344e26bb338f5324b044c7?sid=fc98aefa-8e57-43f4-bcf9-7397e5b57af6
+
+
+https://github.com/user-attachments/assets/64360370-e906-4d25-9788-b2152c55f54d
+https://github.com/user-attachments/assets/eba57ec2-fc44-4cdc-b008-8acd4e97761e
+
+
+
+
+
+
+
+
 
 
 
