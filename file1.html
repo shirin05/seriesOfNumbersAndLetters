@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Light and Sound Game</title>
-    <link rel="stylesheet" href="file2.css">
+    <link rel="stylesheet" type="text/css" href="file2.css">
 </head>
 <body>
     <h1>Light and Sound Game</h1>
-    <p>Welcome to the Game! Repeat back the pattern you hear by pressing the buttons.</p>
+    <p>Welcome to the Game! Repeat the sequence of lights and sounds! Choose easy or hard mode.</p>
     <button id="startBtn" onclick="startGame()">Start</button>
     <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+    <button id="easyBtn" onclick="setMode('easy')">Easy Mode</button>
+    <button id="hardBtn" onclick="setMode('hard')">Hard Mode</button>
     
     <div id="gameButtonArea">
         <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
@@ -18,6 +18,14 @@
         <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
         <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button>
     </div>
+    
+    <h2>Leaderboard</h2>
+    <ul id="leaderboard">
+        <li>Alice - 8</li>
+        <li>Bob - 7</li>
+        <li>Charlie - 6</li>
+        <li>Dave - 5</li>
+    </ul>
     
     <script src="file3.js"></script>
 </body>
