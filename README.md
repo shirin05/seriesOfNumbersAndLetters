@@ -48,6 +48,11 @@ https://github.com/user-attachments/assets/eba57ec2-fc44-4cdc-b008-8acd4e97761e
 
 https://www.loom.com/share/cb7d9c8d5cf54ec581e94562ad11c629?sid=534b3706-01d1-4af0-852f-a5a2f63cf20e
 
+## How to run code
+
+Download the files, I used Visual Studio Code. Double tap on file1.html and click open with Live Server.
+
+
 
 
 
