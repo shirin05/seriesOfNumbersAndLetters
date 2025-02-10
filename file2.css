@@ -1,29 +1,26 @@
 body {
-    background-color: #f0f8ff;
-    color: #333;
     font-family: Verdana, Arial, sans-serif;
+    background-color: #282c34;
+    color: white;
     text-align: center;
-}
-
-h1 {
-    font-family: Verdana, Arial, sans-serif;
-    font-style: italic;
-    color: darkblue;
 }
 
 button {
     padding: 10px;
     border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
 }
 
-.hidden {
-    display: none;
+#gameButtonArea {
+    margin-top: 20px;
 }
 
 #gameButtonArea > button {
     width: 200px;
     height: 200px;
     margin: 2px;
+    border: none;
 }
 
 #button1 {
@@ -52,5 +49,9 @@ button {
 }
 #button4:active, #button4.lit {
     background: yellow;
+}
+
+.hidden {
+    display: none;
 }
 
