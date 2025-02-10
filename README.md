@@ -24,14 +24,31 @@ Lastly, I would love to add fun verbal feedback! My question would be: How could
 
 ### If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-If I had more time to work on this project, I would focus on adding difficulty levels to enhance gameplay. A great starting point would be optimizing timing constants so they dynamically adjust. For example, to increase difficulty, I would gradually decrease clueHoldTime as the game progresses. Additionally, instead of an automatic difficulty increase, I would consider giving users the option to select their difficulty level at the start of the game.
+If I had more time to work on this project, I would create an actual game where real users can save their progress and thus the leaderboard holds actual dynamically changing stats. A leaderboard would further enhance this by encouraging users to improve their scores and track their rankings. A great example is Candy Crush, where my father continues to play even today because he enjoys checking and maintaining his leaderboard position. This simple yet powerful feature keeps players coming back, making it an excellent upgrade for my game.
 
 I would also refactor the code by implementing event delegation rather than assigning onclick handlers to each button individually. This would make the code more scalable and efficient, especially if I decide to add more game buttons or mechanics in the future.
 
-Another exciting addition would be multiplayer functionality and a leaderboard system. Multiplayer modes significantly increase a game's engagement by adding a competitive edge, making players more invested. A leaderboard would further enhance this by encouraging users to improve their scores and track their rankings. A great example is Candy Crush, where my father continues to play even today because he enjoys checking and maintaining his leaderboard position. This simple yet powerful feature keeps players coming back, making it an excellent upgrade for my game.
+Another exciting addition would be multiplayer functionality. Multiplayer modes significantly increase a game's engagement by adding a competitive edge, making players more invested. 
 
 
-### Video Walkthrough.
+## Video Walkthrough UPDATED VERSION - NEW - WATCH THIS 
+### Note there are 2. One shows the entire screen, and it captures alerts (Game Over & Congratulations), losing a turn, Start button to End, and winning a turn. The second recording captures the tab alone because this was the only way I could capture the sound of the buttons. Please view both recordings, Thank you!!
+
+https://www.loom.com/share/6e092fcbfb504d06b8bf92c2072e9d57?sid=5d49a77c-2183-4599-9ef4-5f22b6292306
+
+https://www.loom.com/share/76be4817953c41418b7710a0c655bcbc?sid=e7af54f9-44a7-44ee-99ad-9c8586cd00f7
+
+
+
+
+
+
+
+
+
+
+
+### Video Walkthrough. OLD
 #### Note there are 2. One shows the entire screen, and it captures alerts (Game Over & Congratulations), losing a turn, Start button to End, and winning a turn. The second recording captures the tab alone because this was the only way I could capture the sound of the buttons. Please view both recordings, Thank you!! 
 
 I included the loom versions and a regular file attachment just incase one does not work.
